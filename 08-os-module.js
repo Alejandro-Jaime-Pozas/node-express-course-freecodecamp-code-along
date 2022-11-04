@@ -1,4 +1,4 @@
-const os = require('os')
+const os = require('os') // this is a built-in module, no ./<filename> needed
 // const { os } = require('os')
 
 // info about current user
