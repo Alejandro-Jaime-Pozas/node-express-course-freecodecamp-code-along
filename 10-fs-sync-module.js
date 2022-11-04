@@ -1,7 +1,7 @@
-const { readFileSync, writeFileSync } = require('fs')
+const { readFileSync, writeFileSync } = require('fs') // imports methods from fs
 console.log('start');
 
-const first = readFileSync('./content/first.txt', 'utf8')
+const first = readFileSync('./content/first.txt', 'utf8') // reads the file w specified encoding
 const second = readFileSync('./content/second.txt', 'utf8')
 
 // create/overwrite a new txt file that merges content from first.txt and second.txt
