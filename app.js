@@ -1,3 +1,12 @@
+// npm - global command that comes with node
+// npm --version to check latest version
+
+// local dependency - use it only in this particular project
+// npm i <packageName> - installs desired package
+
+// global dependency - use it in any project
+// npm i -g <packageName>
+
 // npm init -y // install all default packages
 // npm init // walks you through steps to install
 

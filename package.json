@@ -4,7 +4,7 @@
   "description": "",
   "main": "01-intro.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,6 @@
   },
   "homepage": "https://github.com/Alejandro-Jaime-Pozas/node-express-course-freecodecamp-tutorial#readme",
   "dependencies": {
-    "bootstrap": "^5.2.2",
     "lodash": "^4.17.21"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
   }
 }
