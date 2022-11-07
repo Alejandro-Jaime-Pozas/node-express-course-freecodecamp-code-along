@@ -19,7 +19,7 @@
 
 // add to "scripts" key in package.json a "start" key with value "nodemon app.js" to be able to type and run the app with npm start
 
-const _ = require('lodash')
+const _ = require('lodash') // common convention to call variable _
 
 const items = [1,[2,[3,[4]]]]
 const newItems = _.flattenDeep(items)

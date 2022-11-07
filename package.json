@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Alejandro-Jaime-Pozas/node-express-course-freecodecamp-tutorial#readme",
   "dependencies": {
+    "bootstrap": "^5.2.2",
     "lodash": "^4.17.21"
   }
 }
